@@ -9,6 +9,7 @@
     "body-parser": "~1.17.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
+<<<<<<< HEAD
     "express": "^4.15.4",
     "jade": "~1.11.0",
     "morgan": "~1.8.1",
@@ -22,4 +23,11 @@
   ],
   "author": "",
   "license": "ISC"
+=======
+    "express": "^4.15.5",
+    "jade": "~1.11.0",
+    "morgan": "^1.8.2",
+    "serve-favicon": "^2.4.5"
+  }
+>>>>>>> a4817a76d55211cbdb8981973c57a5db022eb29e
 }
