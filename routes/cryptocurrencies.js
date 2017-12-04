@@ -1,9 +1,9 @@
 var express = require('express');
 var router = express.Router();
 
-/* GET home page. */
+/* GET cryptocurrencies listing. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'krypno.' });
+  res.send('Here is a listing of the most popular cryptocurrencies!');
 });
 
 module.exports = router;
